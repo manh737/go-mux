@@ -1,0 +1,5 @@
+server_host: "localhost:4583"
+mongo_user: ""
+mongo_password: ""
+mongo_host: "localhost"
+mongo_port: "27017"
