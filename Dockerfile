@@ -18,4 +18,4 @@ RUN cp /build/main .
 
 EXPOSE 3000
 
-CMD ["/dist/main"]
+CMD ["./dist/main"]
